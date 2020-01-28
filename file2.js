@@ -8,4 +8,8 @@ function tutu () {
   console.log('tutu');
 }
 
+function titi (lol) {
+  console.log('titi');
+}
+
 toto();
