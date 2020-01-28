@@ -1,7 +1,7 @@
 const Author = 'maitrewindu';
 
 function tata () {
-  console.log('Git is powerful.');
+  console.log('Git is powerful');
 }
 
 function lol () {
